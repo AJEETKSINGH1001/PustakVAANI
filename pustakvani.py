@@ -79,7 +79,7 @@ def pause_narration():
 # Create root window
 root = tk.Tk()
 root.title("PustakVAANI")
-root.geometry("900x850")
+root.geometry("500x450")
 root.resizable(False, False)
 root.configure(background="#f0f0f0")
 
